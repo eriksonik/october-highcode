@@ -1,0 +1,31 @@
+.syntaxhighlighter {
+    padding: 1em 0;
+}
+
+.syntaxhighlighter:before {
+    position: absolute;
+    top: .4em;
+    right: 1.8em;
+    font-size: .8em;
+    z-index: 10;
+}
+.syntaxhighlighter.php:before {
+    content: 'PHP';
+}
+.syntaxhighlighter.css:before {
+    content: 'CSS';
+}
+.syntaxhighlighter.js:before {
+    content: 'JS';
+}
+.syntaxhighlighter.sql:before {
+    content: 'SQL';
+}
+.syntaxhighlighter.xml:before {
+    content: 'XML';
+}
+.syntaxhighlighter.html:before {
+    content: 'HTML';
+}
+
+

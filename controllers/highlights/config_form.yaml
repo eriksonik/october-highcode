@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Highlight
+
+# Model Form Field configuration
+form: $/eriks/highcode/models/highlight/fields.yaml
+
+# Model Class name
+modelClass: Eriks\Highcode\Models\Highlight
+
+# Default redirect location
+defaultRedirect: eriks/highcode/highlights
+
+# Create page
+create:
+    title: Create Highlight
+    redirect: eriks/highcode/highlights/update/:id
+    redirectClose: eriks/highcode/highlights
+
+# Update page
+update:
+    title: Edit Highlight
+    redirect: eriks/highcode/highlights
+    redirectClose: eriks/highcode/highlights
+
+# Preview page
+preview:
+    title: Preview Highlight
