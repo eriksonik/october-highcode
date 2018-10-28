@@ -27,5 +27,6 @@
 .syntaxhighlighter.html:before {
     content: 'HTML';
 }
-
-
+.syntaxhighlighter.twig:before {
+    content: 'Twig';
+}
