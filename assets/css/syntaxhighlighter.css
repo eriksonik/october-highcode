@@ -9,24 +9,50 @@
     font-size: .8em;
     z-index: 10;
 }
-.syntaxhighlighter.php:before {
-    content: 'PHP';
-}
-.syntaxhighlighter.css:before {
-    content: 'CSS';
-}
-.syntaxhighlighter.js:before {
-    content: 'JS';
-}
-.syntaxhighlighter.sql:before {
-    content: 'SQL';
-}
-.syntaxhighlighter.xml:before {
-    content: 'XML';
-}
-.syntaxhighlighter.html:before {
-    content: 'HTML';
-}
-.syntaxhighlighter.twig:before {
-    content: 'Twig';
-}
+.syntaxhighlighter.as3:before { content: 'ActionScript3' }
+.syntaxhighlighter.actionscript3:before { content: 'ActionScript3' }
+.syntaxhighlighter.bash:before { content: 'Bash/shell' }
+.syntaxhighlighter.shell:before { content: 'Bash/shell' }
+.syntaxhighlighter.cf:before { content: 'ColdFusion' }
+.syntaxhighlighter.coldfusion:before { content: 'ColdFusion' }
+.syntaxhighlighter.c-sharp:before { content: 'C#' }
+.syntaxhighlighter.csharp:before { content: 'C#' }
+.syntaxhighlighter.cpp:before { content: 'C++' }
+.syntaxhighlighter.c:before { content: 'C++' }
+.syntaxhighlighter.delphi:before { content: 'Delphi' }
+.syntaxhighlighter.pas:before { content: 'Pascal' }
+.syntaxhighlighter.pascal:before { content: 'Pascal' }
+.syntaxhighlighter.diff:before { content: 'Diff' }
+.syntaxhighlighter.patch:before { content: 'Diff' }
+.syntaxhighlighter.erl:before { content: 'Erlang' }
+.syntaxhighlighter.erlang:before { content: 'Erlang' }
+.syntaxhighlighter.groovy:before { content: 'Groovy' }
+.syntaxhighlighter.js:before { content: 'JavaScript' }
+.syntaxhighlighter.jscript:before { content: 'JavaScript' }
+.syntaxhighlighter.javascript:before { content: 'JavaScript' }
+.syntaxhighlighter.java:before { content: 'Java' }
+.syntaxhighlighter.jfx:before { content: 'JavaFX' }
+.syntaxhighlighter.javafx:before { content: 'JavaFX' }
+.syntaxhighlighter.perl:before { content: 'Perl' }
+.syntaxhighlighter.pl:before { content: 'Perl' }
+.syntaxhighlighter.php:before { content: 'PHP' }
+.syntaxhighlighter.plain:before { content: 'Plain Text' }
+.syntaxhighlighter.text:before { content: 'Plain Text' }
+.syntaxhighlighter.markup:before { content: 'Plain Text' }
+.syntaxhighlighter.ps:before { content: 'PowerShell' }
+.syntaxhighlighter.powershell:before { content: 'PowerShell' }
+.syntaxhighlighter.py:before { content: 'Python' }
+.syntaxhighlighter.python:before { content: 'Python' }
+.syntaxhighlighter.rails:before { content: 'Ruby' }
+.syntaxhighlighter.ror:before { content: 'Ruby' }
+.syntaxhighlighter.ruby:before { content: 'Ruby' }
+.syntaxhighlighter.scala:before { content: 'Scala' }
+.syntaxhighlighter.sql:before { content: 'SQL' }
+.syntaxhighlighter.vb:before { content: 'Visual Basic' }
+.syntaxhighlighter.vbnet:before { content: 'Visual Basic' }
+.syntaxhighlighter.xml:before { content: 'HTML/XML' }
+.syntaxhighlighter.xhtml:before { content: 'HTML/XML' }
+.syntaxhighlighter.xslt:before { content: 'HTML/XML' }
+.syntaxhighlighter.html:before { content: 'HTML/XML' }
+.syntaxhighlighter.xhtml:before { content: 'HTML/XML' }
+.syntaxhighlighter.twig:before { content: 'Twig' }
