@@ -19,6 +19,7 @@
 .syntaxhighlighter.csharp:before { content: 'C#' }
 .syntaxhighlighter.cpp:before { content: 'C++' }
 .syntaxhighlighter.c:before { content: 'C++' }
+.syntaxhighlighter.css:before { content: 'CSS' }
 .syntaxhighlighter.delphi:before { content: 'Delphi' }
 .syntaxhighlighter.pas:before { content: 'Pascal' }
 .syntaxhighlighter.pascal:before { content: 'Pascal' }
