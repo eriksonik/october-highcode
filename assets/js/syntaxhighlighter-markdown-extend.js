@@ -7,7 +7,7 @@
                 label: '</code>',
                 icon: 'file-code-o',
                 // insertAfter: 'formatting',
-                action: 'formatBlock',
+                action: 'formatInline',
                 template: '<code>$1</code>'
             },
             pre: {
