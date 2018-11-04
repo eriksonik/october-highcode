@@ -20,7 +20,7 @@
                 label: '</script>',
                 icon: 'file-code-o',
                 action: 'formatBlock',
-                template: '<script type="syntaxhighlighter" class="brush: js"><![CDATA[\n$1\n]]></script>'
+                template: '<script type="syntaxhighlighter" class="brush: php"><![CDATA[\n$1\n]]></script>'
             }
         };
 
