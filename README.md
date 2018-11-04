@@ -85,6 +85,13 @@ function foo() {
 ]]></script>
 ```
 
+## typofilter.js
+
+js-типограф
+Graker https://graker.ru
+
+
 ## Ссылки
 * [Installation](http://alexgobatchev.com/SyntaxHighlighter/manual/installation.html)
 * [GitHub](https://github.com/syntaxhighlighter/syntaxhighlighter)
+* [js-типограф](https://github.com/graker/typofilter.js)
